@@ -1,0 +1,191 @@
+{
+  "Login": {
+    "SignInButton": "Oturum aç",
+    "UsernamePlaceholder": "Kullanıcı Adı",
+    "PasswordPlaceholder": "Şifre",
+    "RememberMe": "Beni hatırla",
+    "ForgottenPassword": "Şifrenizi mi unuttunuz?",
+    "Errors": {
+      "IncorrectCredentials": "Yanlış kullanıcı adı ya da şifre"
+    }
+  },
+  "Common": {
+    "ContinueButton": "Devam",
+    "Available": "Mevcut",
+    "PartiallyAvailable": "Kısmen Mevcut",
+    "Monitored": "Takipte",
+    "NotAvailable": "Mevcut Değil",
+    "ProcessingRequest": "İşleme Talebi",
+    "PendingApproval": "Onay Bekliyor",
+    "RequestDenied":"Talep Reddedildi",
+    "NotRequested": "Talep Yapılmadı",
+    "Requested": "Talep Yapıldı",
+    "Request": "Talep",
+    "Denied":"Reddedildi",
+    "Approve":"Onayla",
+    "PartlyAvailable": "Kısmen Mevcut",
+    "Errors": {
+      "Validation": "Lütfen girdiğiniz değerleri kontrol edin"
+    }
+  },
+  "PasswordReset": {
+    "EmailAddressPlaceholder": "Email Adresi",
+    "ResetPasswordButton": "Şifreyi yenile"
+  },
+  "LandingPage": {
+    "OnlineHeading": "Şu anda çevrimiçi",
+    "OnlineParagraph": "Sunucu şu an çevrimiçi",
+    "PartiallyOnlineHeading": "Kısmen Çevrimiçi",
+    "PartiallyOnlineParagraph": "Sunucu kısmen çevrimiçi.",
+    "MultipleServersUnavailable":
+      "Toplam {{totalServers}} sunucudan {{serversUnavailable}} tanesi çevrimiçi.",
+    "SingleServerUnavailable":
+      "Toplam {{totalServers}} sunucudan {{serversUnavailable}} tanesi çevrimdışı.",
+    "OfflineHeading": "Şu anda çevrimdışı",
+    "OfflineParagraph": "Sunucu şu an çevrimdışı.",
+    "CheckPageForUpdates": "Güncellemeler için bu sayfayı takip edin."
+  },
+  "NavigationBar": {
+    "Search": "Ara",
+    "Requests": "Talepler",
+    "UserManagement": "Kullanıcı Yönetimi",
+    "Issues":"Sorunlar",
+    "Vote":"Oylama",
+    "Donate": "Bağış Yap!",
+    "DonateLibraryMaintainer": "Bu sunucuya bağış yap!",
+    "DonateTooltip":
+      "Eşimi Ombi üzerinde geliştirme yapmaya ikna edebilmem için bağışlarınız çok önemli ;)",
+    "UpdateAvailableTooltip": "Güncelleme Mevcut!",
+    "Settings": "Ayarlar",
+    "Welcome": "Hoşgeldin {{username}}",
+    "UpdateDetails": "Detayları Güncelle",
+    "Logout": "Çıkış",
+    "OpenMobileApp":"Mobil Uygulamayı Aç",
+    "RecentlyAdded":"Yakın zamanda eklenenler"
+  },
+  "Search": {
+    "Title": "Ara",
+    "Paragraph":
+      "Şu anda mevcut olmayan bir şey mi izlemek istiyorsunuz? Sorun değil aşağıdan arama yapın ve talep oluşturun!",
+    "MoviesTab": "Filmler",
+    "TvTab": "Diziler",
+    "MusicTab":"Müzik",
+    "Suggestions": "Öneriler",
+    "NoResults": "Üzgünüm, pek sonuç bulamadım!",
+    "DigitalDate": "Dijital Platform Yayın Tarihi: {{date}}",
+    "TheatricalRelease":"Vizyona Giriş Tarihi: {{date}}",
+    "ViewOnPlex": "Plex'de izle",
+    "ViewOnEmby": "Emby'de izle",
+    "RequestAdded": "{{title}} için yapılan talep başarıyla alındı.",
+    "Similar":"Benzer",
+    "Refine":"İyileştir",
+    "SearchBarPlaceholder":"Aramak için burayı kullanın",
+    "Movies": {
+      "PopularMovies": "Popüler Filmler",
+      "UpcomingMovies": "Çok Yakında",
+      "TopRatedMovies": "En İyi Filmler",
+      "NowPlayingMovies": "Vizyondaki Filmler",
+      "HomePage": "Ana Sayfa",
+      "Trailer": "Tanıtım Videosu"
+    },
+    "TvShows": {
+      "Popular":"Popüler",
+      "Trending":"Trend",
+      "MostWatched":"En Fazla İzlenen",
+      "MostAnticipated":"En Çok Beklenen",
+      "Results":"Sonuçlar",
+      "AirDate":"Yayın Tarihi:",
+      "AllSeasons":"Bütün Sezonlar",
+      "FirstSeason":"İlk Sezon",
+      "LatestSeason":"En Son Sezon",
+      "Select":"Seçin ...",
+      "SubmitRequest":"Talebi Gönder",
+      "Season":"{{seasonNumber}}. sezon",
+      "SelectAllInSeason":"Sezon {{seasonNumber}}'deki bütün bölümleri işaretle"
+    }
+  },
+  "Requests": {
+    "Title": "Talepler",
+    "Paragraph":
+      "Aşağıda tüm taleplerinizi görebilirsiniz. Ayrıca indirilme ve onay durumlarını takip edebilirsiniz.",
+    "MoviesTab": "Filmler",
+    "TvTab": "Diziler",
+    "MusicTab":"Müzik",
+    "RequestedBy": "Talebi Yapan:",
+    "Status": "Durum:",
+    "RequestStatus": "Talep Durumu:",
+    "Denied": " Reddedildi:",
+    "TheatricalRelease": "Vizyona Giriş Tarihi: {{date}}",
+    "ReleaseDate": "Yayınlandı: {{date}}",
+    "TheatricalReleaseSort": "Vizyona Giriş Tarihi",
+    "DigitalRelease": "Dijital Yayın: {{date}}",
+    "RequestDate": "Talep Tarihi:",
+    "QualityOverride": "Kaliteyi Değiştir:",
+    "RootFolderOverride": "Kök Dizini Değiştir:",
+    "ChangeRootFolder":"Kök Dizin",
+    "ChangeQualityProfile":"Kalite Profili",
+    "MarkUnavailable":"Mevcut değil olarak işaretle",
+    "MarkAvailable":"Mevcut olarak işaretle",
+    "Remove":"Kaldır",
+    "Deny":"Reddet",
+    "Season":"Sezon:",
+    "GridTitle":"Başlık",
+    "AirDate":"Yayın Tarihi",
+    "GridStatus":"Durum",
+    "ReportIssue":"Sorun Bildir",
+    "Filter":"Filtrele",
+    "Sort":"Sırala",
+    "SeasonNumberHeading":"Sezon: {seasonNumber}",
+    "SortTitleAsc":"Başlık ▲",
+    "SortTitleDesc":"Başlık ▼",
+    "SortRequestDateAsc": "Talep Tarihi ▲",
+    "SortRequestDateDesc": "Talep Tarihi ▼",
+    "SortStatusAsc":"Durum ▲",  
+    "SortStatusDesc":"Durum ▼",
+    "Remaining": {
+      "Quota": "{{remaining}}/{{total}} talep kaldı",
+      "NextDays": "{{time}} gün içinde başka talep eklenecek.",
+      "NextHours": "{{time}} saat içinde başka talep eklenecek.",
+      "NextMinutes": "{{time}} dakika içinde başka talep eklenecek.",
+      "NextMinute": "{{time}} dakika içinde başka talep eklenecek."
+    }
+  },
+  "Issues":{
+    "Title":"Sorunlar",
+    "PendingTitle":"Bekleyen Sorunlar",
+    "InProgressTitle":"Çözüm Aşamasındaki Sorunlar",
+    "ResolvedTitle":"Çözülen Sorunlar",
+    "ColumnTitle":"Başlık",
+    "Category":"Kategori",
+    "Status": "Durum",
+    "Details": "Detaylar",
+    "Description":"Açıklama",
+    "NoComments":"Yorum yok!",
+    "MarkInProgress":"Çözüm aşamasında olarak işaretle",
+    "MarkResolved":"Çözülmüş olarak işaretle",
+    "SendMessageButton":"Gönder",
+    "Subject":"Konu",
+    "Comments":"Yorumlar",
+    "WriteMessagePlaceholder":"Mesajınızı buraya yazın...",
+    "ReportedBy":"Rapor Eden"
+  },
+  "Filter":{
+    "ClearFilter":"Filtreyi Temizle",
+    "FilterHeaderAvailability":"Müsaitlik",
+    "FilterHeaderRequestStatus":"Durum",
+    "Approved":"Onaylandı", 
+    "PendingApproval": "Onay Bekliyor"
+  },
+  "UserManagment": {
+    "TvRemaining": "TV: {{remaining}}/{{total}} kalan",
+    "MovieRemaining": "Movies: {{remaining}}/{{total}} kalan",
+    "MusicRemaining": "Music: {{remaining}}/{{total}} kalan",
+    "TvDue": "Dizi: {{date}}",
+    "MovieDue": "Film: {{date}}",
+    "MusicDue": "Müzik: {{date}}"
+  },
+  "Votes": {
+    "CompletedVotesTab": "Oylandı",
+    "VotesTab": "İhtiyaç Duyulan Oy Sayısı"
+  }
+}
